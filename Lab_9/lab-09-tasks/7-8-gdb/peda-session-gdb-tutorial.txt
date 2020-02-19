@@ -1,0 +1,6 @@
+break /home/iwhite/2CD/IOCLA/Lab_9/lab-09-tasks/7-8-gdb/gdb-tutorial.asm:48
+  commands
+    print $al
+    print $ecx
+  end
+
